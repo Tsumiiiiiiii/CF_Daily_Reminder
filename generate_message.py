@@ -42,7 +42,7 @@ Hope you are nice and cute by the grace of Almighty.\n"""
         vrdc="That's {} % less than your daily goal.".format(ptg)
         opn="INSERT YOUR ANGRY TEXT HERE"
     elif(n==2):
-        vrdc="All though you have completed your daily goal, my expectations from you, is much higher. You are on the edge. Hope you will solve more from the next day."
+        vrdc="INSERT YOUR NOT SO HAPPY BUT THIKASE TEXT HERE"
         opn=""
     else:
         vrdc="That's {} % more than your daily goal. ".format(ptg)
